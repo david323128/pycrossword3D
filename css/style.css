@@ -1,0 +1,36 @@
+body { 
+	width: 100%;
+}
+
+#puzzle{ 
+	width: 100%;
+	height: 100%; 
+	margin: 0px;
+	text-align: center;
+}
+
+#puzzle section {
+	display: inline-block;
+	width: 100%; 
+	margin: 0px;
+	padding: 0px;
+	font-size: 0px;
+}
+
+.row-item {
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	font-size: 12pt;
+}
+
+.clue {
+    margin-right: 50px;
+    display: inline-block;
+    vertical-align: top;
+	text-align: left;
+}
+
+.clues {
+	text-align: center;
+}
